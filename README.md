@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi, I'm Magdalena 🖐
 
-<!--
-**MagdalenaBrejna/MagdalenaBrejna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<div align="center">  
+<img alt="me" title="me" src="https://github.com/MagdalenaBrejna/MagdalenaBrejna/blob/main/magda.png" height="400" width="800">
+<br>
+  
+<pre>
+<div align="justify" "margin": 50px;> 
+        I'm student of Applied Computer Science at the Computer Science and Telecommunication department of Wrocław 
+        University of Science and Technology, software developer in the Project Scorpio and member of the program
+        for gifted students PWr. 
+ 
+        I love innovative, creative  and out-of-the-box solutions that make a difference and solve real problems. 
+        In my Java and C++ projects I pay attention to details and dont't compromise on quality. I'm passionate 
+        about good films, travells and water sports like sailing.  
+</div>
+</pre>
+<div align="center">  
+<img alt="me" title="me" src="https://github.com/MagdalenaBrejna/MagdalenaBrejna/blob/main/scorpiox.jpg" height="700" width="800">
+<br><br>  
