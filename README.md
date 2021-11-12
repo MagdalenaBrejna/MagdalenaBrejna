@@ -10,7 +10,7 @@ of Science and Technology, software developer in the Project Scorpio and member 
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 I love innovative, creative  and out-of-the-box solutions that make a difference and solve real problems. In my Java projects<br> 
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-I pay attention to details and dont't compromise on quality. I'm passionate about films, travells and water sports like sailing.<br> 
+I pay attention to details and don't compromise on quality. I'm passionate about films, travels and water sports like sailing.<br> 
 </div>
 <br>
 <br>
